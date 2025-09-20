@@ -1,0 +1,6 @@
+# Ignore model directories
+
+Voice2AI/Dependencies/Llama/Model/Qwen.gguf
+Voice2AI/Dependencies/Llama/Model/TinyLlama.gguf
+Voice2AI/Dependencies/Whisper/ggmlEncoder/ggml-base.en-encoder.mlmodelc
+Voice2AI/Dependencies/Whisper/Model/ggml-base.en.bin
